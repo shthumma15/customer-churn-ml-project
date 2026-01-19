@@ -69,7 +69,7 @@ pip install streamlit
 streamlit run app.py
 ```
 ### Streamlit App Preview
-![Streamlit App](Results/streamlit_app.png)
 
+![Streamlit App](Results/streamlit_app.png)
 
 
