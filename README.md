@@ -57,4 +57,10 @@ A simple interactive web app built using Streamlit to demonstrate churn predicti
 - Tenure Months
 - Monthly Charges
 
+**How to run locally:**
+```bash
+pip install streamlit
+streamlit run app.py
+
+
 
