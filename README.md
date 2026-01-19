@@ -19,6 +19,12 @@ Telco customer churn dataset containing customer demographics, service usage, an
 - Recall (Churn): ~57%
 - Key churn drivers: high total charges, short-term contracts
 
+## Key Takeaways
+- Customer churn is highest among low-tenure, month-to-month customers.
+- High total charges are strongly associated with churn risk.
+- Long-term contracts significantly improve customer retention.
+- Logistic Regression performed better than Random Forest for this high-dimensional dataset.
+
 ## Business Recommendations
 - Offer personalized discounts to high-spending customers
 - Encourage long-term contracts through incentives
@@ -61,6 +67,9 @@ A simple interactive web app built using Streamlit to demonstrate churn predicti
 ```bash
 pip install streamlit
 streamlit run app.py
+```
+### Streamlit App Preview
+![Streamlit App](Results/streamlit_app.png)
 
 
 
