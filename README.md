@@ -48,3 +48,13 @@ Python, Pandas, NumPy, Seaborn, Scikit-learn, Jupyter Notebook
 
 - High total charges increase churn risk.
 - Long-term contracts significantly reduce churn.
+
+## Streamlit App (Demo)
+
+A simple interactive web app built using Streamlit to demonstrate churn prediction.
+
+**Features used:**
+- Tenure Months
+- Monthly Charges
+
+
