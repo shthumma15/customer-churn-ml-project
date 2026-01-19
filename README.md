@@ -25,3 +25,26 @@ Telco customer churn dataset containing customer demographics, service usage, an
 
 ## Tools Used
 Python, Pandas, NumPy, Seaborn, Scikit-learn, Jupyter Notebook
+
+## Results & Key Insights
+
+### Churn Distribution
+![Churn Distribution](Results/churn_distribution.png)
+
+- Majority of customers do not churn, indicating class imbalance.
+
+### Tenure vs Churn
+![Tenure vs Churn](Results/tenure_vs_churn.png)
+
+- Customers with low tenure are more likely to churn.
+
+### Contract Type vs Churn
+![Contract vs Churn](Results/contract_vs_churn.png)
+
+- Month-to-month contracts show the highest churn risk.
+
+### Key Features Influencing Churn
+![Top Features](Results/top_features.png)
+
+- High total charges increase churn risk.
+- Long-term contracts significantly reduce churn.
